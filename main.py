@@ -11,6 +11,7 @@ def main():
     print('UFO came and added this line')
     my_superfunction()
     print(1)
+    print('end_part 2')
 
 
 if __name__ == '__main__':
